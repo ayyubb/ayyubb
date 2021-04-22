@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ayyubb
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning Html & Javascript
-- 💞️ I’m looking to collaborate on nothing really...
+- 🌴 I’m Currently At Vacation so I'm busy
+- 🤓 Earned 4 Certifactes on Sololearn
 
 
 <!---
